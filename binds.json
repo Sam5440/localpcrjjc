@@ -1,0 +1,12 @@
+{
+    "arena_bind": {
+        "1102566608": {
+            "id": "1174266667563",
+            "uid": "1102566608",
+            "gid": "790121399",
+            "arena_on": true,
+            "grand_arena_on": true,
+            "nightslient_on": false
+        }
+    }
+}
